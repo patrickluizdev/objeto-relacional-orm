@@ -1,0 +1,11 @@
+C:\Users\Kleber\Desktop\ORM_Exemplo\ORM_Exemplo\bin\Debug\netcoreapp2.1\ORM_Exemplo.deps.json
+C:\Users\Kleber\Desktop\ORM_Exemplo\ORM_Exemplo\bin\Debug\netcoreapp2.1\ORM_Exemplo.runtimeconfig.json
+C:\Users\Kleber\Desktop\ORM_Exemplo\ORM_Exemplo\bin\Debug\netcoreapp2.1\ORM_Exemplo.runtimeconfig.dev.json
+C:\Users\Kleber\Desktop\ORM_Exemplo\ORM_Exemplo\bin\Debug\netcoreapp2.1\ORM_Exemplo.dll
+C:\Users\Kleber\Desktop\ORM_Exemplo\ORM_Exemplo\bin\Debug\netcoreapp2.1\ORM_Exemplo.pdb
+C:\Users\Kleber\Desktop\ORM_Exemplo\ORM_Exemplo\obj\Debug\netcoreapp2.1\ORM_Exemplo.csprojAssemblyReference.cache
+C:\Users\Kleber\Desktop\ORM_Exemplo\ORM_Exemplo\obj\Debug\netcoreapp2.1\ORM_Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\Kleber\Desktop\ORM_Exemplo\ORM_Exemplo\obj\Debug\netcoreapp2.1\ORM_Exemplo.AssemblyInfoInputs.cache
+C:\Users\Kleber\Desktop\ORM_Exemplo\ORM_Exemplo\obj\Debug\netcoreapp2.1\ORM_Exemplo.AssemblyInfo.cs
+C:\Users\Kleber\Desktop\ORM_Exemplo\ORM_Exemplo\obj\Debug\netcoreapp2.1\ORM_Exemplo.dll
+C:\Users\Kleber\Desktop\ORM_Exemplo\ORM_Exemplo\obj\Debug\netcoreapp2.1\ORM_Exemplo.pdb
